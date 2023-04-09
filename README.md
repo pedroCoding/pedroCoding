@@ -1,11 +1,14 @@
-### Hi! I'm Pedro Lucas 👋
+<h1 align="left">Hi, I'm Pedro</h1>
 
-<h3 align="left">What do I use? ⚔️</h2>
+<h3 align="left">What do I use? ⚔️💻</h2>
+
+<img align="right" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width="500" height="300" />
+
 
 <div align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" width="42" alt="node.js"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" width="42" alt="git"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" width="42" alt="java"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" width="42" alt="react.js"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" width="42" alt="php"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="42" width="42" alt="trello"  />
