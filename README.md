@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm pedroCoding.</h2>
+<h2 align="center">Olá, Eu sou pedroCoding.</h2>
 <div align="center">
 <img src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-10.gif" width="300" height="200" />
 </div>
@@ -9,13 +9,13 @@
 <br><br>
 
 - 🔭 I'm developer Back-end.
-- 🌱 I've also been exploring the Front-end world || React.
+- 🌱 Também tenho explorado o mundo Front-end || React.
 - 💬 Sou entusiasta na linguagem PHP Back-end.
 - ☕ Apressiador de café.
 
 <br><br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h3 align="center">💻Here are some of my skills covered in projects.</h3>
+<h3 align="center">💻Aqui estão algumas das minhas habilidades abordadas em projetos.</h3>
 
 
 <div style="display: inline_block" align="center"><br>
@@ -46,7 +46,7 @@
 
   
 <p></p>
-  <h3 align="center">Talk to me.</h3>
+  <h3 align="center">Fale comigo.</h3>
 <div align="center"> 
   <a href="https://www.instagram.com/pedro.devp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:falecompedrodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
