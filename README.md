@@ -8,7 +8,7 @@
 
 <br><br>
 
-- 🔭 I'm developer Back-end.
+- 🔭 I'm developer JAVA Back-end.
 - 🌱 Venho explorado o mundo Front-end || React.
 - 💬 Sou entusiasta na linguagem PHP Back-end.
 - ☕ Apressiador de café e 📚 livros.
