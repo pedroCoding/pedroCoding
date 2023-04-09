@@ -10,8 +10,8 @@
 
 - 🔭 I'm developer Back-end.
 - 🌱 I've also been exploring the Front-end world || React.
-- 💬 I'm enthusiastic about the PHP Back-end language.
-- ☕ coffee connoisseur.
+- 💬 Sou entusiasta na linguagem PHP Back-end.
+- ☕ Apressiador de café.
 
 <br><br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
