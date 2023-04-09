@@ -9,9 +9,11 @@
 <br><br>
 
 - 🔭 I'm developer Back-end.
-- 🌱 Também tenho explorado o mundo Front-end || React.
+- 🌱 Venho explorado o mundo Front-end || React.
 - 💬 Sou entusiasta na linguagem PHP Back-end.
-- ☕ Apressiador de café.
+- ☕ Apressiador de café e 📚 livros.
+- 🚴‍ Amante do ciclismo amador.
+- 🏋️‍ Praticante de musculação.
 
 <br><br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
