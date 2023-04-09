@@ -2,7 +2,7 @@
 
 <h3 align="left">What do I use? ⚔️💻</h2>
 
-<img align="right" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width="500" height="300" />
+<img align="right" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width="300" height="300" />
 
 
 <div align="left">
