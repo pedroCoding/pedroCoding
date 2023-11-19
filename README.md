@@ -8,9 +8,9 @@
 
 <br><br>
 
-- 🔭 I'm developer JAVA Back-end.
-- 🌱 Venho explorado o mundo Front-end || React.
-- 💬 Sou entusiasta na linguagem PHP Back-end.
+- 🔭 I'm developer Front-end - ReactJS.
+- 🌱 Venho explorado o mundo Front-end a um tempinho. Tenho alguns projetinhos de Estudo e trabalhos também.
+- 💬 Sou entusiasta na linguagem PHP e JAVA Back-end.
 - ☕ Apressiador de café e 📚 livros.
 - 🚴‍ Amante do ciclismo amador.
 - 🏋️‍ Praticante de musculação.
