@@ -1,4 +1,4 @@
-<h2 align="center">Olá, Eu sou pedroCoding.</h2>
+<h2 align="center">Olá, Me chamo Pedro</h2>
 <div align="center">
 <img src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-10.gif" width="300" height="200" />
 </div>
