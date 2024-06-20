@@ -8,8 +8,8 @@
 
 <br><br>
 
-- 🔭 I'm developer Front-end - ReactJS.
-- 🌱 Venho explorado o mundo Front-end a um tempinho. Tenho alguns projetinhos de Estudo e trabalhos também.
+- 🔭 I'm developer FullStack.
+- 🌱 Venho explorado o mundo FullStack a um tempinho. Tenho alguns projetinhos de Estudo e trabalhos também.
 - 💬 Sou entusiasta em REACT e Java.
 - ☕ Apressiador de café e 📚 livros.
 
